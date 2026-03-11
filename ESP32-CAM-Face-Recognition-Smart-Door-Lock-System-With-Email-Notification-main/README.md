@@ -265,7 +265,7 @@ This project is open-source and free to use for educational and research purpose
 
 
 ## 👨‍💻 Author
-**Suman R N**  
-📧 Contact: sumansurn@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/suman-r-1b5260335 
+**Shrujan M**  
+📧 Contact: mshrujan.28@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/shrujan-m-804842361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app%20
 
